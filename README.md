@@ -30,6 +30,6 @@ In the appendix section you can find more results for other phaseshift resolutio
 
 # Results
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![fig 1.1](https://github.com/SoroushJamali/Conventional-Beamforming-/blob/main/image/photo_2022-10-13_17-11-57.jpg)
 
 
