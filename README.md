@@ -31,17 +31,20 @@ In the appendix section you can find more results for other phaseshift resolutio
 # Results
 
 <figure>
-<img src="https://github.com/SoroushJamali/Conventional-Beamforming-/blob/main/image/photo_2022-10-13_17-11-57.jpg" alt="Trulli" style="width:100%">
-<figcaption align = "center"><b>Fig.1 </b></figcaption>
+<img src="https://github.com/SoroushJamali/Conventional-Beamforming-/blob/main/image/photo_2022-10-13_17-11-57.jpg" alt="Trulli" style="width:50%">
+<figcaption align = "center"><b>Fig.1.1 </b></figcaption>
 </figure>
 
-![fig 1.1](https://github.com/SoroushJamali/Conventional-Beamforming-/blob/main/image/photo_2022-10-13_17-11-57.jpg)
+<img src="https://github.com/SoroushJamali/Conventional-Beamforming-/blob/main/image/photo_2022-10-13_17-12-01" alt="Trulli" style="width:50%">
+<figcaption align = "center"><b>Fig.1.2 </b></figcaption>
+</figure>
 
+<img src="https://github.com/SoroushJamali/Conventional-Beamforming-/blob/main/image/photo_2022-10-13_17-12-04" alt="Trulli" style="width:50%">
+<figcaption align = "center"><b>Fig.1.3 </b></figcaption>
+</figure>
 
-![fig 1.1](https://github.com/SoroushJamali/Conventional-Beamforming-/blob/main/image/photo_2022-10-13_17-11-57.jpg)
-
-![fig 1.1](https://github.com/SoroushJamali/Conventional-Beamforming-/blob/main/image/photo_2022-10-13_17-11-57.jpg)
-
-![fig 1.1](https://github.com/SoroushJamali/Conventional-Beamforming-/blob/main/image/photo_2022-10-13_17-11-57.jpg)
+<img src="https://github.com/SoroushJamali/Conventional-Beamforming-/blob/main/image/photo_2022-10-13_17-12-11" alt="Trulli" style="width:50%">
+<figcaption align = "center"><b>Fig.1.4 </b></figcaption>
+</figure>
 
 
