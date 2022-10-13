@@ -1,9 +1,10 @@
 # Null-Steering-Beamformer
 
-## Install Matlab 
- Clone the repo
- From `APPS/Get More Apps` Install Phased Array System Toolbox
- Run `Conv_BF_main.m`
+## Setups
+. Install Matlab 
+. Clone the repo
+. From `APPS/Get More Apps` Install Phased Array System Toolbox
+. Run `Conv_BF_main.m`
 
 
 
